@@ -1,0 +1,23 @@
+{
+  "name": "largest-fires",
+  "version": "1.0.0",
+  "description": "The largest fires of the year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeseast/largest-fires.git"
+  },
+  "author": "Chris Amico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyeseast/largest-fires/issues"
+  },
+  "homepage": "https://github.com/eyeseast/largest-fires#readme",
+  "devDependencies": {
+    "@turf/turf": "^5.1.6",
+    "sander": "^0.6.0"
+  }
+}
